@@ -1,0 +1,1 @@
+sc create DiskCrypt type= kernel start= demand error= ignore binPath= C:\Tools\DCR.sys
